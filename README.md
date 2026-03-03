@@ -4,7 +4,7 @@ Yep — a few important “standard interview” patterns were missing (or only 
 
 Here’s the updated master list: patterns + common question types, topic-by-topic.
 
-## Arrays
+# Arrays
 
 ## Patterns
 Two pointers (opposite / same direction)
@@ -39,7 +39,7 @@ Missing/duplicate numbers; smallest missing positive
 
 Merge/insert intervals; overlaps; meeting rooms
 
-## Strings
+# Strings
 
 ## Patterns
 Sliding window + frequency map
@@ -66,7 +66,7 @@ Pattern match occurrences
 
 Palindrome problems (count/longest/min cuts)
 
-Hashing
+# Hashing
 
 ## Patterns
 
@@ -90,7 +90,7 @@ Dedup / group anagrams / isomorphic strings
 
 “First unique”, “most frequent”, etc.
 
-Linked List
+# Linked List
 
 ## Patterns
 
@@ -116,7 +116,7 @@ Merge sorted lists / sort list
 
 Remove Nth from end, intersection
 
-Stack
+# Stack
 
 ## Patterns
 
@@ -138,7 +138,7 @@ Largest rectangle in histogram
 
 Evaluate expression / decode string
 
-Queue / Deque
+# Queue / Deque
 
 ## Patterns
 
@@ -156,7 +156,7 @@ Scheduling / buffering simulations
 
 Shortest path with 0/1 weights
 
-Binary Search
+# Binary Search
 
 ## Patterns
 
@@ -180,7 +180,7 @@ Min capacity / min days / max distance type optimization
 
 Search in rotated / mountain array
 
-Heap / Priority Queue
+# Heap / Priority Queue
 
 ## Patterns
 
@@ -204,7 +204,7 @@ Streaming median
 
 Schedule tasks / meeting rooms II
 
-Greedy
+# Greedy
 
 ## Patterns
 
@@ -228,7 +228,7 @@ Gas station, jump game
 
 Job scheduling variants
 
-Recursion
+# Recursion
 
 ## Patterns
 
@@ -244,7 +244,7 @@ Tree computations (height, balance, diameter)
 
 Classic recursive reductions
 
-Backtracking
+# Backtracking
 
 ## Patterns
 
@@ -266,7 +266,7 @@ Combination sum / partitioning
 
 N-Queens, Sudoku, word search
 
-Trees (Binary + General)
+# Trees (Binary + General)
 
 ## Patterns
 
@@ -298,7 +298,7 @@ Subtree sums / path constraints
 
 Build tree from traversals
 
-BST
+# BST
 
 ## Patterns
 
@@ -320,7 +320,7 @@ Validate / recover swapped BST
 
 Range sum in BST
 
-Graphs
+# Graphs
 
 ## Patterns
 
@@ -364,7 +364,7 @@ Connectivity queries / redundant connection
 
 Critical connections (bridges), SCC-based condensation
 
-Dynamic Programming
+# Dynamic Programming
 
 ## Patterns
 
@@ -410,9 +410,9 @@ Burst balloons / matrix chain style
 
 Traveling salesman (small N)
 
-Bit Manipulation
+# Bit Manipulation
 
-##Patterns
+## Patterns
 
 XOR tricks (pair canceling)
 
@@ -434,9 +434,9 @@ Max XOR pair/subarray
 
 Bitwise AND/OR constraints
 
-Trie (Missing before — now added)
+# Trie (Missing before — now added)
 
-##Patterns
+## Patterns
 
 Trie insert/search
 
@@ -456,9 +456,9 @@ Word search II
 
 Max XOR of two numbers
 
-Range Query Data Structures (Missing before — now added)
+# Range Query Data Structures (Missing before — now added)
 
-##Patterns
+## Patterns
 
 Fenwick Tree / BIT (prefix sums with updates)
 
@@ -480,9 +480,9 @@ Range min/max/sum with updates
 
 Sweep line event counting (overlaps)
 
-Intervals & Sweep Line (Missing as a named pattern — now added)
+# Intervals & Sweep Line (Missing as a named pattern — now added)
 
-##Patterns
+## Patterns
 
 Sort endpoints + event processing
 
@@ -502,9 +502,9 @@ Skyline (hard)
 
 Merge/insert intervals (basic)
 
-Math / Number Theory
+# Math / Number Theory
 
-##Patterns
+## Patterns
 
 GCD/LCM
 
@@ -524,9 +524,9 @@ Modular exponent / mod inverse (occasionally)
 
 Counting / probability-like DP combos
 
-“Design a Data Structure” DSA (Often appears in interviews)
+# “Design a Data Structure” DSA (Often appears in interviews)
 
-##Patterns
+## Patterns
 
 HashMap + Doubly Linked List (LRU)
 
